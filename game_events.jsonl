@@ -1,6 +1,10 @@
-{"timestamp": "16:18:03.020", "elapsed_s": 3, "frame": 188, "type": "asteroid_shot", "asteroid_pos": [419.86, 569.38], "shot_pos": [431.42, 549.79]}
-{"timestamp": "16:18:05.601", "elapsed_s": 5, "frame": 347, "type": "asteroid_shot", "asteroid_pos": [1102.66, 394.13], "shot_pos": [1084.3, 409.05]}
-{"timestamp": "16:18:06.298", "elapsed_s": 6, "frame": 390, "type": "asteroid_shot", "asteroid_pos": [912.59, 575.4], "shot_pos": [909.61, 553.74]}
-{"timestamp": "16:18:06.444", "elapsed_s": 6, "frame": 399, "type": "asteroid_shot", "asteroid_pos": [1225.74, 780.0], "shot_pos": [1219.42, 776.36]}
-{"timestamp": "16:18:07.354", "elapsed_s": 7, "frame": 455, "type": "asteroid_shot", "asteroid_pos": [973.39, 615.39], "shot_pos": [963.62, 592.54]}
-{"timestamp": "16:18:08.066", "elapsed_s": 8, "frame": 499, "type": "asteroid_shot", "asteroid_pos": [1101.78, 745.99], "shot_pos": [1126.84, 709.83]}
+{"timestamp": "17:29:41.570", "elapsed_s": 3, "frame": 205, "type": "asteroid_shot", "asteroid_pos": [471.18, 654.28], "shot_pos": [494.75, 624.21]}
+{"timestamp": "17:29:41.570", "elapsed_s": 3, "frame": 205, "type": "asteroid_split"}
+{"timestamp": "17:29:44.245", "elapsed_s": 6, "frame": 369, "type": "asteroid_shot", "asteroid_pos": [589.84, 541.66], "shot_pos": [611.23, 535.66]}
+{"timestamp": "17:29:47.547", "elapsed_s": 9, "frame": 572, "type": "asteroid_shot", "asteroid_pos": [710.76, 616.11], "shot_pos": [692.93, 557.53]}
+{"timestamp": "17:29:47.547", "elapsed_s": 9, "frame": 572, "type": "asteroid_split"}
+{"timestamp": "17:29:49.238", "elapsed_s": 11, "frame": 676, "type": "asteroid_shot", "asteroid_pos": [661.07, 500.61], "shot_pos": [656.76, 456.05]}
+{"timestamp": "17:29:49.238", "elapsed_s": 11, "frame": 676, "type": "asteroid_split"}
+{"timestamp": "17:29:50.765", "elapsed_s": 12, "frame": 770, "type": "asteroid_shot", "asteroid_pos": [931.59, 523.62], "shot_pos": [939.69, 480.48]}
+{"timestamp": "17:29:50.765", "elapsed_s": 12, "frame": 770, "type": "asteroid_split"}
+{"timestamp": "17:29:50.798", "elapsed_s": 12, "frame": 772, "type": "asteroid_shot", "asteroid_pos": [710.93, 370.56], "shot_pos": [692.42, 381.07]}

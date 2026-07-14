@@ -61,7 +61,7 @@ def main():
                         # Fall back to a simple event if positions aren't available
                         log_event("asteroid_shot")
 
-                    asteroid.kill()
+                    asteroid.split()
                     shot.kill()
 
 
