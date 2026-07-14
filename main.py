@@ -50,6 +50,17 @@ def main():
             for shot in shots:
                 collision_shot = asteroid.collides_with(shot)
                 if collision_shot == True:
+                    # Log an event when an asteroid is hit by a shot
+                    try:
+                        log_event(
+                            "asteroid_shot",
+                            asteroid_pos=[round(asteroid.position.x, 2), round(asteroid.position.y, 2)],
+                            shot_pos=[round(shot.position.x, 2), round(shot.position.y, 2)],
+                        )
+                    except Exception:
+                        # Fall back to a simple event if positions aren't available
+                        log_event("asteroid_shot")
+
                     asteroid.kill()
                     shot.kill()
 
